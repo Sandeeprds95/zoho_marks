@@ -2,8 +2,7 @@
 
 from bs4 import BeautifulSoup
 from pymongo import MongoClient
-import urllib.request
-import webbrowser
+import urllib.request, webbrowser
 
 BASE_URL = 'https://creator.zohopublic.com/srm_university/attendance-2015-16/view-perma/Student_Status/H2rQs63qk22E9xdk1PAnBnNqzuFfgZMtD9yN5RkfuA7V6RsCdOfxxXeXjud80upTEZgQxjPJR3b0ffxU49rYOSr7fpaa9g1hRZmd/studentID=27276430000054'
 
