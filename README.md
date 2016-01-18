@@ -1,6 +1,6 @@
 # zoho_marks
-A basic web scraping script that opens the ZOHO link of attendance and marks of the student.
-Currently working only for 3rd year CSE students of SRM University.
+A basic web scraping script that opens the ZOHO link of attendance and marks of the student.<br>
+Currently working only for 3rd year CSE students (2013-2017 batch) of SRM University.<br>
 
 <h2>LICENSE</h2>
 
