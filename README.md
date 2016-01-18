@@ -1,10 +1,11 @@
 # zoho_marks
 A basic web scraping script that opens the ZOHO link of attendance and marks of the student.<br>
+Main scraper, scraps the whole ZOHO website and stores the details in mongoDB and the records are accessed in O(1).<br>
 Currently operational only for 3rd year CSE students (2013-2017 batch) of SRM University.<br>
 
 <h2>LICENSE</h2>
 
-Copyright © 2015 SANDEEP RAVINDRA
+Copyright © 2016 SANDEEP RAVINDRA
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
